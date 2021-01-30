@@ -1,6 +1,7 @@
 # ping_pong
 
-Ping pong built with Flutter
+🚧🚧🚧🚧🚧🚧🚧🚧🚧:construction: THIS PROJECT IS STILL A WORK IN PROGRESS :construction:
+A simple Ping-Pong app built with Flutter
 
 ## Getting Started
 
